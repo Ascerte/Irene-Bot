@@ -180,4 +180,4 @@ async def help_command(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run("bot_token")
+bot.run(BOT_TOKEN)
